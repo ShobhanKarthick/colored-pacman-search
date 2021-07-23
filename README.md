@@ -1,6 +1,6 @@
 # Colored Pacman Search 
 
-[Arch Linux](https://archlinux.org/) and arch based derivatives such as [Manjaro](https://manjaro.org/), [Garuda Linux](https://garudalinux.org/) use pacman as their package manager. The command `pacman -Ss <search-key>` can be used to search for packages from the repositories with a specific search key. The output given by the above command is juts simple text with color. This makes it tougher to read through the lines of the output. This colored-pacman-search creates a colored output with a good spacing and colors which enblaes good readiblity
+[Arch Linux](https://archlinux.org/) and arch based derivatives such as [Manjaro](https://manjaro.org/), [Garuda Linux](https://garudalinux.org/) use pacman as their package manager. The command `pacman -Ss <search-key>` can be used to search for packages from the repositories with a specific search key. The output given by the above command is just simple text with color. This makes it tougher to read through the lines of the output. This colored-pacman-search creates a colored output with a good spacing and colors which enblaes good readiblity
 
 ## Installation
 
