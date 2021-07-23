@@ -1,0 +1,3 @@
+function pac-search (){
+	pacman -Ss $1 | awk -f ~/.config/colored-pacman-search.awk
+}
